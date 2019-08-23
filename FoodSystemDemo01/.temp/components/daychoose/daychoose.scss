@@ -1,0 +1,26 @@
+.containerdatechoose{
+    width: 100%;
+    background-color: #fb5554
+}
+
+.prevday-view{
+    width: 25%;
+    float: left;
+    .pre-btn{
+        opacity: 0;
+        color: #fff
+    }
+}
+
+.day-view{
+    width: 50%;
+    float: left;
+}
+.nextday-view{
+    width: 25%;
+    float: left;
+    .next-btn{
+        opacity: 0;
+        color: #fff
+    }
+}
